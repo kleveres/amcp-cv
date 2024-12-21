@@ -1,1 +1,1 @@
-git@github.com:kleveres/amcp-cv.git
+https://GITHUB-kleveres.github.io/amcp-cv/cv
